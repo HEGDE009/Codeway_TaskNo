@@ -32,8 +32,6 @@ Build an AI model to classify SMS messages as spam or legitimate using technique
 ### Dataset
 [Spam SMS Detection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
-## How to Use
 
-Include instructions on how to run the models, preprocess the data, and any other relevant details.
 
 
