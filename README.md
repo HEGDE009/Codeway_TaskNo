@@ -32,14 +32,6 @@ Build an AI model to classify SMS messages as spam or legitimate using technique
 ### Dataset
 [Spam SMS Detection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
-## Task 5: Handwritten Text Generation
-
-### Objective
-Implement a character-level recurrent neural network (RNN) to generate handwritten-like text. Train the model on a dataset of handwritten text examples and let it generate new text based on the learned patterns.
-
-### Dataset
-[Handwritten Text Generation Dataset](link_to_dataset)
-
 ## How to Use
 
 Include instructions on how to run the models, preprocess the data, and any other relevant details.
